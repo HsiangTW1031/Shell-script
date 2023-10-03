@@ -1,0 +1,5 @@
+Please check if sentence exists vocabulary of "$vocab" and command ":q" to exit.
+Trying times will pass,
+Your dreams will come true.
+Know it will pass,
+And strength you will gain.

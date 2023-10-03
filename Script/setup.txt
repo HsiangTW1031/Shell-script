@@ -1,0 +1,1 @@
+Please check if sentence exists vocabulary of "$vocab" and command ":q" to exit.
