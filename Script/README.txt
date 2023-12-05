@@ -1,7 +1,7 @@
 / ********************************************************************** /
-/ 								                                         /
-/ 			              Shell Script Information                       /
-/								                                         /
+/ 								                                                       /
+/ 			              Shell Script Information                           /
+/								                                                         /
 /    Editor : Levi Wu 	Date : 2023.9.25                                 /
 /    Git Version : git version 2.42.0.windows.2	                         /
 /    Bash Version : GNU bash, version 5.2.15(1)-release (x86_64-pc-msys) /
